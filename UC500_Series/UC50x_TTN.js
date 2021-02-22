@@ -3,7 +3,7 @@
  * 
  * Copyright 2020 Milesight IoT
  * 
- * @product UC500 series
+ * @product UC50x series
  */
 function Decoder(bytes, port) {
     var decoded = {};
